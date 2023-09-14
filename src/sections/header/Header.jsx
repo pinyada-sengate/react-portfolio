@@ -11,15 +11,10 @@ const Header = () => {
         </div>
         <h3>Pinyada Sengate</h3>
         <p>
-          With extensive experience in the field of game development and yes, I
-          have a residence card (NIE) from Spain that make me available to live
-          and work without any issue. I glad to offer to you my knowledge and
-          the ability to adapt to new technologies and methodologies to deliver
-          successful projects. I have also years working with international
-          teams who have made my communication skills good enough to understand
-          complex ideas and collaborate with colleagues from different
-          backgrounds. I am very excited to start working in Europe to show my
-          full potential.
+          I am glad to offer to you my knowledge and the ability to adapt to new
+          technologies and methodologies to deliver successful projects. I have
+          also 3+ years working with international teams from different
+          backgrounds.
         </p>
         <div className="header__cta">
           <a href="#contact" className="btn primary">
