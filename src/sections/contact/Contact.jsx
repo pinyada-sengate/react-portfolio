@@ -1,9 +1,23 @@
 import "./contact.css";
+import data from "./data";
 
 const Contact = () => {
   return (
     <section id="contact">
-      <h2>Contact</h2>
+      <h2>Get In Touch</h2>
+      <p>Send me a message via any og links below.</p>
+      <div className="container contact__container">
+        {data.map((contact) => (
+          <a
+            key={contact.id}
+            href={contact.link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {contact.icon}
+          </a>
+        ))}
+      </div>
     </section>
   );
 };
