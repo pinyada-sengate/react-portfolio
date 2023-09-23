@@ -6,7 +6,7 @@ const Contact = () => {
     <section id="contact">
       <h2>Get In Touch</h2>
       <p>Send me a message via any og links below.</p>
-      <div className="container contact__container">
+      <div className="container contact__container" data-aos="fade-up">
         {data.map((contact) => (
           <a
             key={contact.id}
