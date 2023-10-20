@@ -20,7 +20,7 @@ const Navbar = () => {
           ))}
         </ul>
         <button id="theme__icon" onClick={showModalHandler}>
-          <IoIosColorPalette />
+          {/* <IoIosColorPalette /> */}
         </button>
       </div>
     </nav>
