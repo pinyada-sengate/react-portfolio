@@ -1,4 +1,4 @@
-import Avatar1 from "../../assets/testimonials/alberto-munguía.webp";
+import Avatar1 from "../../assets/testimonials/alberto-munguia.webp";
 import Avatar2 from "../../assets/testimonials/gabriela-marie-ocreto.webp";
 import Avatar3 from "../../assets/testimonials/m.mudassir-manzoor.webp";
 import Avatar4 from "../../assets/testimonials/alexey-maisuradze.webp";
@@ -13,7 +13,7 @@ const data = [
     quote:
       "This app is perfect to learn hiragana, you can see the order in which you have to draw the strokes. The only thing that I'd like were added is an option to hear the sound of the caracter without have to select it again",
     avatar: Avatar1,
-    name: "Alberto Munguia",
+    name: "Alberto Munguía",
     profession: "Actress",
   },
   {
