@@ -13,7 +13,7 @@ const data = [
     quote:
       "This app is perfect to learn hiragana, you can see the order in which you have to draw the strokes. The only thing that I'd like were added is an option to hear the sound of the caracter without have to select it again",
     avatar: Avatar1,
-    name: "Alberto Munguía",
+    name: "Alberto Munguia",
     profession: "Actress",
   },
   {
